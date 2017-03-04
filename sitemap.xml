@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://allisonandfrancois.fr/ceremony/</loc>
+    <lastmod>2017-03-04T08:23:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://allisonandfrancois.fr/reception/</loc>
+    <lastmod>2017-03-04T08:32:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://allisonandfrancois.fr/more-info/</loc>
+    <lastmod>2017-03-04T08:43:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://allisonandfrancois.fr/</loc>
+    <lastmod>2017-03-04T08:23:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
