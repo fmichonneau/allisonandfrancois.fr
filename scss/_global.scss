@@ -47,6 +47,7 @@ h4, h5, h6 {
     margin-top: 0;
     margin-bottom: 10px;
     font-family: $sans-font;
+    text-align: center;
 }
 h3, h4, h5, h6 {
     text-rendering: optimizeLegibility;
@@ -149,6 +150,7 @@ h4 a, h5 a, h6 a {
 
 p, ul, ol {
     margin: 1em 0;
+    text-align: center;
 }
 
 ol ol, ul ul,
@@ -406,6 +408,7 @@ ul li {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
+
 }
 
 .blog-description {
@@ -454,7 +457,7 @@ ul li {
     z-index: 99999;
     font-family: $sans-font;
     text-transform: uppercase;
-    font-size: 1.5rem;
+    font-size: 1rem;
     line-height: 130%;
     font-weight: bold;
 }
